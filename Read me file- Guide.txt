@@ -1,0 +1,14 @@
+senario-1: all features except "Diag (month)", "DMFT"
+
+senario-2: all features except "Diag (month)", "DMFT", "GENDER", "AGE", "BMI"
+
+scenario-3: only these features: 2-ddmiR223, 2-ddmiR21
+
+scenario-4: only these features: 2-ddmiR223, 2-ddmiR21, DMFT
+
+scenario-5: all features except "Diag (month)"
+
+scenario-6: all features except "Diag (month)", "Gender" , "Age", "bmi"
+
+
+
